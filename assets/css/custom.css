@@ -1,0 +1,29 @@
+#countdown{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 100%;
+    justify-content: space-evenly;
+    align-items: baseline;
+}
+
+.num{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    font-size: 75px;
+    margin: 0;
+    padding: 0;
+    height: 120px;
+    
+}
+
+.tex{
+    display: flex;
+    font-size: 50px;
+    margin: 0;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+}
